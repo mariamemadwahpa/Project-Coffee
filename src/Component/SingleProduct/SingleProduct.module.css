@@ -1,0 +1,70 @@
+.parent{
+    background-color: #110e13;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+.container {
+    margin: auto;
+    padding: 100px;
+    gap: 20px;
+    justify-content: center;
+    width: 70%;
+    height: 750px;
+    padding: 20px;
+    display: flex;
+    @media (max-width: 1100px) {
+       width: 100%;
+       height: auto;
+    
+      }
+    @media (max-width: 707px) {
+       display: block;
+       width: 100%;
+    
+      }
+}
+.card{
+    display: flex;
+    justify-items: center;
+    margin: auto;
+    @media (max-width: 707px) {
+        display: block;
+        margin: 50px;     
+       }
+}
+
+.card img {
+    width: 350px;
+    height: 350px;
+    @media (max-width: 1100px) {
+        margin: auto;
+        width: 92%;
+        background-size: cover;
+        background-position: center;
+        margin-top: 20px; 
+
+    }
+}
+.card h1{
+    color: #fff;
+    font-size: 50px;
+    margin-top: 15px;
+    @media (max-width: 707px) {
+        font-size: 30px;
+     
+       }
+
+}
+.card h6{
+    color: #ffffff92;
+    margin-top: 15px;
+    font-size: 40px;
+    @media (max-width: 707px) {
+        font-size: 20px;
+     
+    }
+
+}

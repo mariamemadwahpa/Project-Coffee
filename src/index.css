@@ -1,0 +1,13 @@
+button{
+  background:none;
+  border: #c49b63 1px solid;
+  color: #c49b63;
+}
+button:hover {
+  background-color:#c49b63;
+  color: #fff;
+  transition:1000ms;
+}
+.dropdown-menu {
+background-color: rgba(0, 0, 0, 0.564) !important;
+}

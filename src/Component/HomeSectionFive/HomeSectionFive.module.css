@@ -1,0 +1,22 @@
+.cardContanerSectionFive{
+    margin: auto;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+.imgsGallery{
+    display: flex;
+    @media (max-width: 707px) {
+        display: block;
+
+    }
+}
+.imgsGallery img{
+    width: 25%;
+    @media (max-width: 707px) {
+        width: 100%;
+
+    }
+
+}

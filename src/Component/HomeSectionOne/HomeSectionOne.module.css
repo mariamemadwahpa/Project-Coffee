@@ -1,0 +1,70 @@
+.formsSectionOne{
+    width: 40%;
+    height: 300px;
+    background-color: #c49b63;
+    color: #fff;
+    padding: 20px;
+    margin-top: 250px;
+    position: absolute;
+    right: 0px;
+    top: 500px;
+    z-index: 0;
+    @media (max-width: 1100px) {
+        top: 850px;
+        width: 100%;
+        height: 250px;
+    }
+    
+}
+.forms{
+    margin: auto;
+    width: 99%;
+    
+}
+.formone input ,.formThree input  {
+    width: 45%;
+    height: 50px;
+    color: #fff;
+    background:none;
+    border: 0ch;
+    margin-right:10px ;
+    border-bottom: 1px rgba(255, 255, 255, 0.577) solid;
+
+}
+
+.formThree button{
+    background-color: #fff;
+    color: #000000af;
+    width: 45%;
+    height: 50px;
+    margin-top: 10px;
+}
+.formTwo input{
+    width: 29.3%;
+    height: 50px;
+    margin-right:10px ;
+    color: #fff;
+    background:none;
+    border: 0px;
+    border-bottom: 1px rgba(255, 255, 255, 0.577) solid;
+}
+
+.TextSectionOne{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    width: 62.8%;
+    height: 150px;
+    @media (max-width: 1100px) {
+        width: 100%;
+        height: 450px;
+    }
+}
+.text{
+    width: 30%;
+    margin: 20px 0px 10px 10px ;
+    @media (max-width: 1100px) {
+        padding: 7px;
+    }
+  
+}

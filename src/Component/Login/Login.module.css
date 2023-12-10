@@ -1,0 +1,109 @@
+.contaner{
+    width: 100%;
+    height: 750px;
+    background-image: url(../img/bg_1.jpg);
+    justify-content: center;
+    display:flex ;
+    flex-direction: column;
+    align-items: center;  
+    @media (max-width: 707px) {
+        /* height: auto;      */
+    }
+    
+
+}
+.forms{
+    width: 60%;
+    border-radius: 50px;
+    margin: auto;
+    padding: 50px;
+    background-color: #01010173;
+    justify-content: center;
+    display:flex ;
+    flex-direction: column;
+    align-items: center;  
+    @media (max-width: 1351px) {
+      width: 90%;
+      /* height: auto;      */
+  }
+}
+
+.forms p{
+  text-align: center;
+  color: #c49b63;
+  font-size: 50px;
+  font-weight: bold;
+  @media (max-width: 360px) {
+    font-size: 30px;     
+   }
+}
+.forms label{
+    color:#c49b63;
+    font-size: 40px;
+    @media (max-width: 360px) {
+      font-size: 20px;
+     }
+  }
+.form input{
+    background-color: #dbbd93;
+    border-radius: 5px;
+    font-size: 30px;
+     width: 750px;
+      height: 50px;
+      border: none;
+      padding: 10px;
+      @media (max-width: 1351px) {
+        width: 100%;     
+       }
+       @media (max-width: 360px) {
+        width: 200px;
+        height: 35px;
+        font-size: 20px;
+
+         
+       }
+  }
+  .butLogin , .butSign{
+      /* width: 550px; */
+      width: 750px;
+      height: 50px;
+      border-radius: 20px;
+      font-size: 30px;
+      margin: 7px;
+      @media (max-width: 1351px) {
+        width: 250px;     
+       }
+       @media (max-width: 360px) {
+        width: 200px;
+        height: 35px;
+        font-size: 20px;
+
+         
+       }
+  }
+    hr{
+        width: 50px;
+        border: #c49b63;
+        background-color: #c49b63;
+        @media (max-width: 1351px) {
+          width: 20px;     
+         }
+         @media (max-width: 360px) {
+          width: 5px;
+         }
+    }
+.OrSign{
+color: #c49b63;
+display: flex;
+gap: 20px;
+/* width: 100%; */
+font-size: 30px;
+text-align: center;
+@media (max-width: 1351px) {
+  font-size: 20px;
+  }
+  @media (max-width: 360px) {
+  font-size: 20px;
+  }
+}
+  

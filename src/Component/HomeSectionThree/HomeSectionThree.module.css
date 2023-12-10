@@ -1,0 +1,19 @@
+.cardContaner{
+    background-color: #c49b63;
+    margin: auto;
+    padding: 70px;
+    justify-content: center;
+    @media (max-width: 1100px) {
+       padding: 20px;
+    }
+}
+
+.CardsSetionThree{
+    display: flex;
+    @media (max-width: 707px) {
+       display: block;
+    }
+}
+.cardContaner {
+    text-align: center;
+}

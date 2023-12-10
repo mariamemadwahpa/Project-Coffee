@@ -1,0 +1,102 @@
+.OurMenu{
+    background-color: #110e13; 
+    height: auto;
+}
+.OurMenu h2 {
+    color: #c49b63;
+    margin-bottom: -15px;
+}
+.Menu{
+    display: flex;
+    width: 99%;
+    margin: auto;
+    justify-content: center;
+    gap: 20px;
+    padding: 150px 0 150px;
+    @media (max-width: 707px) {
+        display: block;
+    }
+}
+.OurMenutext{
+    width: 50%;
+    text-align: end;
+    color:#fff;
+   padding-top: 120px;
+    @media (max-width: 707px) {
+        width: 90%;
+        text-align: start;
+        padding: 20px;
+     
+    }
+}
+.OurMenutext p {
+    color: #ffffff82;
+    padding-left: 20px;
+    @media (max-width: 707px) {
+        text-align: start;
+        padding-left: 0px;
+     
+    }
+   
+}
+.OurMenuImg{
+    width: 50%;
+    /* padding: 10px ; */
+    @media (max-width: 707px) {
+        width: 100%;
+        padding: 0px;
+     
+    }
+   
+}
+.imgOur{
+    width: 100%;    
+    margin-bottom: 20px;
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* gap: 10px; */
+    @media (max-width: 707px) {
+        display: block;
+        justify-content: center;
+        margin: auto;
+    }
+}
+.imgOurOne,.imgOurTwo,.imgOurThree,.imgOurFour{
+    width:270px;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    @media (max-width: 1100px) {
+        margin: auto;
+        width: 92%;
+        background-size: cover;
+        background-position: center;
+        margin-top: 20px; 
+
+    }
+
+}
+
+.imgOurOne,.imgCardOne{
+    background-image: url(../img/menu-1.jpg);
+   
+}
+.imgOurTwo {
+    background-image: url(../img/menu-2.jpg);
+}
+.imgOurThree{
+    background-image: url(../img/menu-3.jpg);
+}
+.imgOurFour{
+    background-image: url(../img/menu-4.jpg);
+}
+
+.sectionSex{
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../img/menu-2.jpg);
+
+}
