@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mariamemadwahpa/Project-Coffee/static/css/main.a08c6eb1.css",
+    "main.js": "/mariamemadwahpa/Project-Coffee/static/js/main.95b1ccb2.js",
+    "static/js/787.4a1e7ef9.chunk.js": "/mariamemadwahpa/Project-Coffee/static/js/787.4a1e7ef9.chunk.js",
+    "static/media/image_2.jpg": "/mariamemadwahpa/Project-Coffee/static/media/image_2.4b79dffbcda2bca1fa93.jpg",
+    "static/media/bg_3.jpg": "/mariamemadwahpa/Project-Coffee/static/media/bg_3.36218042eee2b502006e.jpg",
+    "static/media/bg_1.jpg": "/mariamemadwahpa/Project-Coffee/static/media/bg_1.a1ae28c6f5477d14bceb.jpg",
+    "static/media/dish-1.jpg": "/mariamemadwahpa/Project-Coffee/static/media/dish-1.12b78faee26a1cda9836.jpg",
+    "static/media/dessert-2.jpg": "/mariamemadwahpa/Project-Coffee/static/media/dessert-2.e6f24b1ea4059508966c.jpg",
+    "static/media/menu-1.jpg": "/mariamemadwahpa/Project-Coffee/static/media/menu-1.b3e61e43c6911090cfa1.jpg",
+    "static/media/dish-2.jpg": "/mariamemadwahpa/Project-Coffee/static/media/dish-2.17b9cc086a35ddd8c77d.jpg",
+    "static/media/about.jpg": "/mariamemadwahpa/Project-Coffee/static/media/about.29b9558bf7b066e879d1.jpg",
+    "static/media/menu-2.jpg": "/mariamemadwahpa/Project-Coffee/static/media/menu-2.f294b408fd2a841ae7e6.jpg",
+    "static/media/drink-1.jpg": "/mariamemadwahpa/Project-Coffee/static/media/drink-1.c5e00b38fb1e33807a30.jpg",
+    "static/media/gallery-1.jpg": "/mariamemadwahpa/Project-Coffee/static/media/gallery-1.2b73a115ffc9f285fa8a.jpg",
+    "static/media/gallery-3.jpg": "/mariamemadwahpa/Project-Coffee/static/media/gallery-3.79234e543610e62b352c.jpg",
+    "static/media/drink-3.jpg": "/mariamemadwahpa/Project-Coffee/static/media/drink-3.38f1326227e18f00bd32.jpg",
+    "static/media/gallery-4.jpg": "/mariamemadwahpa/Project-Coffee/static/media/gallery-4.3fcd4127bdb2654b28ea.jpg",
+    "static/media/gallery-2.jpg": "/mariamemadwahpa/Project-Coffee/static/media/gallery-2.3c5d6ede572b0fa6855f.jpg",
+    "static/media/drink-2.jpg": "/mariamemadwahpa/Project-Coffee/static/media/drink-2.9e2410384229fd3dc28d.jpg",
+    "static/media/dish-3.jpg": "/mariamemadwahpa/Project-Coffee/static/media/dish-3.f6f76827cc5c0c1a1984.jpg",
+    "static/media/dessert-3.jpg": "/mariamemadwahpa/Project-Coffee/static/media/dessert-3.7911ec4bf5777ea068da.jpg",
+    "static/media/dessert-1.jpg": "/mariamemadwahpa/Project-Coffee/static/media/dessert-1.4f07ad65ce32c319cab8.jpg",
+    "static/media/menu-3.jpg": "/mariamemadwahpa/Project-Coffee/static/media/menu-3.ee1b06e4cc6cb6bbfe99.jpg",
+    "static/media/image_1.jpg": "/mariamemadwahpa/Project-Coffee/static/media/image_1.6d74a4bbd8f8bbf619b3.jpg",
+    "static/media/menu-4.jpg": "/mariamemadwahpa/Project-Coffee/static/media/menu-4.d4351977e951f918230a.jpg",
+    "index.html": "/mariamemadwahpa/Project-Coffee/index.html",
+    "main.a08c6eb1.css.map": "/mariamemadwahpa/Project-Coffee/static/css/main.a08c6eb1.css.map",
+    "main.95b1ccb2.js.map": "/mariamemadwahpa/Project-Coffee/static/js/main.95b1ccb2.js.map",
+    "787.4a1e7ef9.chunk.js.map": "/mariamemadwahpa/Project-Coffee/static/js/787.4a1e7ef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a08c6eb1.css",
+    "static/js/main.95b1ccb2.js"
+  ]
+}
